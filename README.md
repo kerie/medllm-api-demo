@@ -1,2 +1,4 @@
 # medllm-api-demo
-demo interaction with medllm backend.
+Api demo with medllm backend.
+
+python3 websockets_client.py
